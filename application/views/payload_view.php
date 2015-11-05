@@ -5,7 +5,7 @@
   }
 </script>
 <div id="container">
-  <h1>no section</h1>
+  <h1>Payload section</h1>
 
   <div id="body">
     <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
